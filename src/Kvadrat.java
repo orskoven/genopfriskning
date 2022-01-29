@@ -15,6 +15,6 @@ public class Kvadrat {
     }
 
     public static void main(String[] args) {
-        printSquare(6,'*');
+        printSquare(60,'y');
     }
 }
